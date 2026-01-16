@@ -1,86 +1,133 @@
-# 👋 你好，我是 kggzs！
+# 👋 你好，我是 kggzs
 
-<div align="center">
-  <!-- 头部横幅（可选，可替换为自己的横幅图） -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=欢迎来到我的 GitHub 主页&fontSize=40&fontWeight=bold&fontColor=ffffff" alt="欢迎横幅" width="100%">
-</div>
+> **专注于自动化工具与社交应用开发 | 用代码简化生活，用技术连接人心**
 
-## 📌 关于我
-- 🔭 目前专注于 **软件开发 & 开源项目贡献**
-- 🌱 正在学习和探索技术领域的 **前沿技术**
-- 👯 期待参与 **有趣的开源项目合作**
-- 💬 你可以问我关于 **编程、开发流程和开源相关**的问题
-- 📫 联系方式：可以在我的 GitHub Issues 留言或关注我的更新
-- ⚡ 小趣事：喜欢泡一杯咖啡，一边喝咖啡一边写代码
+---
 
-## 📊 GitHub 数据统计
-<div align="center">
-  <!-- 整体贡献统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kggzs&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="kggzs 的 GitHub 数据统计" width="48%">
-  <!-- 语言统计 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kggzs&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="常用开发语言" width="48%">
-  
-  <!-- 贡献打卡图 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kggzs&theme=radical&hide_border=true" alt="GitHub 连续贡献统计" width="97%" style="margin-top: 10px;">
-</div>
+## 🌟 关于我
 
-## 🏆 GitHub 荣誉奖杯
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kggzs&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub 荣誉奖杯">
-</div>
+- 🔭 **独立开发者** - 热衷于开发实用工具和社交应用
+- 🎯 **技术追求** - 专注于自动化、Web开发和用户体验优化
+- 💡 **开源精神** - 坚持开源分享，用代码回馈社区
+- 🚀 **持续创新** - 不断探索新技术，优化项目功能
 
-## 🛠️ 技术栈 & 技能掌握
-<div align="center">
-  <!-- 编程语言 -->
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </p>
-  
-  <!-- 前端技术 -->
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  </p>
-  
-  <!-- 后端/工具/数据库 -->
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </p>
-</div>
+---
 
-## 📈 近期活动记录
-<!-- 自动更新的近期活动 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kggzs&theme=radical&hide_border=true&area=true" alt="GitHub 活动趋势图" width="97%">
-</div>
+## 🚀 我的开源项目
 
-## 🤝 与我建立联系
-<div align="center">
-  <a href="https://github.com/kggzs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <!-- 可添加其他社交平台，如 知乎、掘金、LinkedIn 等 -->
-  <!--
-  <a href="你的社交链接" target="_blank">
-    <img src="对应平台的shields.io徽章" alt="平台名称">
-  </a>
-  -->
-</div>
+### 🤖 自动化工具系列
 
-<div align="center">
-  <br>
-  <p>⭐️ 来自 <a href="https://github.com/kggzs">kggzs</a> 的主页</p>
-  <!-- 访客计数 -->
-  <img src="https://komarev.com/ghpvc/?username=kggzs&color=blueviolet&style=flat" alt="访客数量统计">
-</div>
+#### 📱 [FN_AQ - 飞牛NAS论坛自动签到](https://github.com/kggzs/FN_AQ)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![自动化](https://img.shields.io/badge/自动化-签到工具-brightgreen)
+- 🎯 飞牛NAS论坛自动签到工具
+- 🔐 支持百度OCR验证码识别
+- 🔄 智能重试机制，确保签到成功
+- 📊 支持多账号管理和Cookie缓存
+
+#### 🔧 [MT_AQ - MT管理器论坛自动签到](https://github.com/kggzs/MT_AQ)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![单文件版](https://img.shields.io/badge/版本-单文件版-blue)
+- 📦 单文件版本，部署简单
+- 🔑 支持安全提问验证
+- 📋 批量账号签到管理
+- 🛡️ 完善的异常处理机制
+
+#### ⚡ [MT2_AQ - MT管理器论坛自动签到 2.0](https://github.com/kggzs/MT2_AQ)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![模块化](https://img.shields.io/badge/架构-模块化设计-orange)
+- 🏗️ 模块化架构设计，功能更强大
+- 📁 分离式配置文件管理
+- 📝 完整的签到历史记录
+- 🎯 支持历史数据查询和统计
+- 🔒 GPL v3.0 开源协议
+
+### 🌊 社交应用系列
+
+#### 💝 [Driftbottle - 数字海洋漂流瓶系统](https://github.com/kggzs/Driftbottle)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- 🌊 现代化的匿名社交平台
+- 🎤 **语音漂流瓶** - 支持录制和播放语音消息
+- 💎 **VIP会员系统** - 完整的会员权限管理
+- 🎯 **用户等级系统** - 经验值自动升级机制
+- 💬 **二级评论回复** - 深度互动交流
+- 🛡️ **多重安全防护** - XSS/SQL注入防护、CSRF验证
+- 📱 **响应式设计** - 完美适配移动端
+- 🔍 **IP地址追踪** - 完整的用户行为记录
+
+---
+
+## 🛠️ 技术栈
+
+### 后端开发
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 前端技术
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 工具与服务
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OCR](https://img.shields.io/badge/-百度OCR-1890FF?style=flat-square&logo=baidu&logoColor=white)
+
+---
+
+## 📊 GitHub 统计
+
+![kggzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kggzs&show_icons=true&theme=radical&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kggzs&layout=compact&theme=radical)
+
+---
+
+## 🎯 项目特色
+
+### 🏆 自动化工具优势
+- ✅ **高成功率** - 智能识别和重试机制
+- 🔐 **安全可靠** - 完善的异常处理和隐私保护
+- 📱 **简单易用** - 配置简单，一键运行
+- 🔄 **持续维护** - 定期更新，适配网站变化
+
+### 💎 社交应用亮点
+- 🎨 **精美界面** - 现代化UI设计，用户体验优秀
+- 🛡️ **安全第一** - 多重安全防护机制
+- ⚡ **高性能** - 优化的数据库查询和缓存机制
+- 📈 **功能丰富** - 语音、等级、VIP等完整功能体系
+
+---
+
+## 🤝 贡献与反馈
+
+- 🐛 **问题反馈** - 欢迎提交 [Issues](https://github.com/kggzs) 反馈问题
+- 💡 **功能建议** - 有好的想法欢迎 [Discussions](https://github.com/kggzs) 讨论
+- ⭐ **项目支持** - 如果项目对你有帮助，别忘了点个 Star
+- 🔄 **代码贡献** - 欢迎提交 Pull Request 贡献代码
+
+---
+
+## 📫 联系我
+
+- 🌍 **个人网站**：[www.kggzs.cn](http://www.kggzs.cn)
+- 📧 **邮箱联系**：通过 GitHub Issues
+- 💬 **技术交流**：欢迎 Star 关注，一起交流技术
+
+---
+
+## 🎯 2025 目标
+
+- [ ] 开发 5+ 个实用开源项目
+- [ ] 优化现有项目功能和性能
+- [ ] 探索 AI 和自动化结合的新方向
+- [ ] 建立技术博客分享开发经验
+- [ ] 参与更多开源社区贡献
+
+---
+
+> ### 🌟 感谢访问我的 GitHub 主页！
+> **"代码改变世界，开源连接未来"** - kggzs
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kggzs&theme=react-dark)
