@@ -65,16 +65,9 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kggzs&layout=compact&langs_count=8)
-
----
-
 ## 🤝 贡献与反馈
 
 - 🐛 **问题反馈** - 欢迎提交 [Issues](https://github.com/kggzs) 反馈问题
-- 💡 **功能建议** - 有好的想法欢迎 [Discussions](https://github.com/kggzs) 讨论
 - ⭐ **项目支持** - 如果项目对你有帮助，别忘了点个 Star
 - 🔄 **代码贡献** - 欢迎提交 Pull Request 贡献代码
 
@@ -83,7 +76,7 @@
 ## 📫 联系我
 
 - 🌍 **个人网站**：[www.kggzs.cn](http://www.kggzs.cn)
-- 📧 **邮箱联系**：通过 GitHub Issues
+- 📧 **邮箱联系**：kggzs@vip.qq.com
 - 💬 **技术交流**：欢迎 Star 关注，一起交流技术
 
 ---
