@@ -121,7 +121,7 @@
 
 <div align="center">
 
-🐛 **[提交Issues](https://github.com/kggzs/issues)** · ⭐ **点个Star支持** · 🔄 **[提交PR](https://github.com/kggzs/pulls)**
+🐛 **[提交Issues](https://github.com/kggzs/kggzs/issues)** · ⭐ **点个Star支持** · 🔄 **[提交PR](https://github.com/kggzs/kggzs/pulls)**
 
 </div>
 
