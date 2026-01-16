@@ -1,17 +1,5 @@
 # 👋 你好，我是 kggzs
-
 > **专注于自动化工具与社交应用开发 | 用代码简化生活，用技术连接人心**
-
----
-
-## 🌟 关于我
-
-- 🔭 **独立开发者** - 热衷于开发实用工具和社交应用
-- 🎯 **技术追求** - 专注于自动化、Web开发和用户体验优化
-- 💡 **开源精神** - 坚持开源分享，用代码回馈社区
-- 🚀 **持续创新** - 不断探索新技术，优化项目功能
-
----
 
 ## 🚀 我的开源项目
 
@@ -79,24 +67,7 @@
 
 ## 📊 GitHub 统计
 
-![kggzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kggzs&show_icons=true&theme=radical&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kggzs&layout=compact&theme=radical)
-
----
-
-## 🎯 项目特色
-
-### 🏆 自动化工具优势
-- ✅ **高成功率** - 智能识别和重试机制
-- 🔐 **安全可靠** - 完善的异常处理和隐私保护
-- 📱 **简单易用** - 配置简单，一键运行
-- 🔄 **持续维护** - 定期更新，适配网站变化
-
-### 💎 社交应用亮点
-- 🎨 **精美界面** - 现代化UI设计，用户体验优秀
-- 🛡️ **安全第一** - 多重安全防护机制
-- ⚡ **高性能** - 优化的数据库查询和缓存机制
-- 📈 **功能丰富** - 语音、等级、VIP等完整功能体系
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kggzos&show_icons=true&theme=radical)
 
 ---
 
@@ -114,16 +85,6 @@
 - 🌍 **个人网站**：[www.kggzs.cn](http://www.kggzs.cn)
 - 📧 **邮箱联系**：通过 GitHub Issues
 - 💬 **技术交流**：欢迎 Star 关注，一起交流技术
-
----
-
-## 🎯 2025 目标
-
-- [ ] 开发 5+ 个实用开源项目
-- [ ] 优化现有项目功能和性能
-- [ ] 探索 AI 和自动化结合的新方向
-- [ ] 建立技术博客分享开发经验
-- [ ] 参与更多开源社区贡献
 
 ---
 
