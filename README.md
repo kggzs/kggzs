@@ -10,43 +10,37 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 #### 📱 [FN_AQ](https://github.com/kggzs/FN_AQ)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br>**飞牛NAS论坛自动签到**
 - 🎯 飞牛NAS论坛自动签到工具
 - 🔐 支持百度OCR验证码识别
-- 🔄 智能重试机制，确保签到成功
-- 📊 支持多账号管理和Cookie缓存
+- 🔄 智能重试机制
+- 📊 多账号管理
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 #### 🔧 [MT_AQ](https://github.com/kggzs/MT_AQ)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<br>**MT管理器论坛自动签到**
-- 📦 单文件版本，部署简单
-- 🔑 支持安全提问验证
-- 📋 批量账号签到管理
-- 🛡️ 完善的异常处理机制
+<br>**MT管理器论坛签到**
+- 📦 单文件版本
+- 🔑 安全提问验证
+- 📋 批量账号管理
+- 🛡️ 异常处理机制
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
 #### ⚡ [MT2_AQ](https://github.com/kggzs/MT2_AQ)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<br>**MT管理器论坛自动签到 2.0**
-- 🏗️ 模块化架构设计，功能更强大
-- 📁 分离式配置文件管理
-- 📝 完整的签到历史记录
-- 🎯 支持历史数据查询和统计
-- 🔒 GPL v3.0 开源协议
-
-</td>
-<td valign="top" width="50%">
+<br>**MT管理器签到 2.0**
+- 🏗️ 模块化架构
+- 📁 分离式配置
+- 📝 历史记录
+- 🔒 GPL v3.0
 
 </td>
 </tr>
@@ -63,25 +57,22 @@
 <tr>
 <td valign="top" width="25%">
 
-🌊 **现代化匿名社交平台**
+🌊 **匿名社交平台**
 
 </td>
 <td valign="top" width="25%">
 
-🎤 **语音漂流瓶** 
-<br>支持录制和播放语音消息
+🎤 **语音漂流瓶**
 
 </td>
 <td valign="top" width="25%">
 
 💎 **VIP会员系统**
-<br>完整的会员权限管理
 
 </td>
 <td valign="top" width="25%">
 
 🎯 **用户等级系统**
-<br>经验值自动升级机制
 
 </td>
 </tr>
@@ -89,25 +80,21 @@
 <td valign="top" width="25%">
 
 💬 **二级评论回复**
-<br>深度互动交流
 
 </td>
 <td valign="top" width="25%">
 
 🛡️ **多重安全防护**
-<br>XSS/SQL注入防护、CSRF验证
 
 </td>
 <td valign="top" width="25%">
 
 📱 **响应式设计**
-<br>完美适配移动端
 
 </td>
 <td valign="top" width="25%">
 
 🔍 **IP地址追踪**
-<br>完整的用户行为记录
 
 </td>
 </tr>
@@ -119,34 +106,16 @@
 ## 🛠️ 技术栈
 
 <div align="center">
-<table>
-<tr>
-<td valign="top" width="33%">
 
 ### 后端开发
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-### 前端技术
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
+### 前端技术  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 工具与服务
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![OCR](https://img.shields.io/badge/-百度OCR-1890FF?style=flat-square&logo=baidu&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![OCR](https://img.shields.io/badge/-百度OCR-1890FF?style=flat-square&logo=baidu&logoColor=white)
 
-</td>
-</tr>
-</table>
 </div>
 
 ---
